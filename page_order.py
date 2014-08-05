@@ -1,3 +1,10 @@
+"""
+Page Order
+==========
+
+Adds a `page_order` attribute to all pages if one is not defined.
+"""
+
 from pelican import signals
 
 def set_page_order(generator):
