@@ -17,4 +17,11 @@ of 100, unless a `DEFAULT_PAGE_ORDER` setting is defined.
 The `page_order` attribute is cast to an `int`, so only use numeric
 values. This is to have a value of `11` be greater than `2`.
 
+
+License
+-------
+
+Licence: BSD. See included `LICENSE` file.
+
+
 [1]: http://getpelican.com/
